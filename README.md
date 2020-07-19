@@ -1,2 +1,2 @@
 # courseragit_course
-Repository created for Google Introduction to  Git course
+Adding more details about the project description.
